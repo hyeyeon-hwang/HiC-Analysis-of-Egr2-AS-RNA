@@ -2,7 +2,10 @@
 
 This repository contains scripts for the Hi-C analysis in the following manuscript:
 
-Martinez-Moreno M., Karambizi D.\*, Hwang H.\*, Fregoso K., Chen J., Fajardo E., Fiser A., & Tapinos N. (2022). EGR2 promoter antisense RNA coordinates chromatin remodeling and spatial genome organization in Schwann cells.
+Margot Martinez Moreno, David Karambizi\*, Hyeyeon Hwang\*, Kristen Fregoso, Madison J. Michles, 
+Eduardo Fajardo, Andras Fiser, and Nikos Tapinos. (2024). Role of the Egr2 Promoter Antisense RNA in Modulating the Schwann Cell Chromatin Landscape. Biomedicines.
+
+\* These authors contributed equally to this work.
 
 ### Accessing .hic files
 Converted GFP (control) .hic files are located in [converted_hic_data/gfp](converted_hic_data/gfp). <br>
